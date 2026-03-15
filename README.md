@@ -118,8 +118,8 @@ These extensions enable notebook support and Rust tooling.
 Clone the repository:
 
 ```bash
-git clone <repo-url>
-cd <repo-name>
+git clone https://github.com/AhmeddHanyy/Rust-Crash-Course.git
+cd Rust-Crash-Course
 ```
 
 Open it in VS Code:
