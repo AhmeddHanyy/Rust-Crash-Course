@@ -1,4 +1,4 @@
-# Rust Crash Course (Interactive Notebooks)
+# Rust Crash Course
 
 This repository contains a **Rust crash course taught through interactive Jupyter notebook**.
 
